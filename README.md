@@ -18,4 +18,4 @@ Le projet consiste à transformer n'importe quel objet conducteur d'électricit�
 
 ## Explications et démos
 
-Pour voir la vidéo du projet : 
+La vidéo du projet : 
