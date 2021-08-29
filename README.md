@@ -13,6 +13,6 @@ Le projet consiste à transformer n'importe quel objet conducteur d'électricit�
 
 ```
 
-## Explications
+## Explications et démos
 
-Pour voir la vidéo liée au projet : 
+Pour voir la vidéo du projet : 
