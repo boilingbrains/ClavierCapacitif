@@ -12,3 +12,7 @@ Le projet consiste à transformer n'importe quel objet conducteur d'électricit�
 └───📜clavier_capacitif_cyberpunk.ino
 
 ```
+
+## Explications
+
+Pour voir la vidéo liée au projet : 
